@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786838573204",
+    "project_id": "wewall-98577",
+    "storage_bucket": "wewall-98577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786838573204:android:f56bdec08881743d32e481",
+        "android_client_info": {
+          "package_name": "com.example.wewall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiYEW4LQSrSHVlq--sdLMs6fHktQL6XnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
